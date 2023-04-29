@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1673372753",layout:"default",error:null,state:{pagesViewed:a,cursor:{x:a,y:a,isVisible:b,isHover:b},scroll:{x:a,y:a,limit:{x:c,y:c}}},serverRendered:true,routePath:"\u002Ffr",config:{}}}(0,false,1));
